@@ -1,0 +1,15 @@
+C:\Projects\Training Fred\Kentico13\MedioClinic\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Training Fred\Kentico13\MedioClinic\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Projects\Training Fred\Kentico13\MedioClinic\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Projects\Training Fred\Kentico13\MedioClinic\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Projects\Training Fred\Kentico13\MedioClinic\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Projects\Training Fred\Kentico13\MedioClinic\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Projects\Training Fred\Kentico13\MedioClinic\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Projects\Training Fred\Kentico13\MedioClinic\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Projects\Training Fred\Kentico13\MedioClinic\Business\bin\Debug\netcoreapp3.1\XperienceAdapter.dll
+C:\Projects\Training Fred\Kentico13\MedioClinic\Business\bin\Debug\netcoreapp3.1\XperienceAdapter.pdb
+C:\Projects\Training Fred\Kentico13\MedioClinic\Business\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Projects\Training Fred\Kentico13\MedioClinic\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Projects\Training Fred\Kentico13\MedioClinic\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Projects\Training Fred\Kentico13\MedioClinic\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Projects\Training Fred\Kentico13\MedioClinic\Business\obj\Debug\netcoreapp3.1\Business.pdb

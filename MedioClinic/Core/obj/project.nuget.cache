@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ru2T0JSbdzvznWoWeI+xFLRiu+NReqE5RSPF+/29e3H03EnJW7/ldMyM0M3htbKF3c+Efq8orSPn/gjHnZxE5w==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Training Fred\\Kentico13\\MedioClinic\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fredericboin\\.nuget\\packages\\enums.net\\3.0.3\\enums.net.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
